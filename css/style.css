@@ -1,0 +1,181 @@
+* {
+	margin: 0;
+	padding: 0;
+	width: 100%;
+}
+body {
+	font-family: Verdana;
+}
+header {
+	margin: 0;
+}
+.peliculas {
+	margin: 0;
+}
+.video {
+	margin: 0;
+}
+.logo {
+	float: left;
+	width: 250px;
+	height: 50px;
+}
+header div div p {
+	font-size: 8px;
+	color: lightgrey;
+	margin: 15px;
+}
+.imgBanner {
+	width: 100%;
+}
+.block {
+	display: block;
+}
+.textoBanner {
+	position: absolute;
+	left: 60%;
+	top: 10%;
+}
+.textoBanner h1 {
+	font-size: 28px;
+	color: white;
+	margin: 10px;
+}
+.linea {
+	border: 1px solid grey;
+	width: 250px;
+}
+.edad {
+	border: 2px solid #8AF03F;
+	border-radius: 10%;
+	width: 4%;
+	display: inline-block;
+	text-align: center;
+	margin: 10px 0px;
+}
+.edad p {
+	color: #8AF03F;
+	font-size: 10px;
+	text-align: center;
+	display: inline;
+	top: -bottom;
+}
+.textoButton {
+	font-size: 10px;
+	color: lightgrey;
+	display: inline;
+	margin: 0px 10px;
+}
+.recuadro {
+	width: 20%;
+	height: auto;
+}
+.textoCuadro {
+	color: lightgrey;
+	font-size: 10px;
+}
+.espacio {
+	font-size: 5px;
+}
+.peliculas {
+	background-color: #FCC725;
+	width: 100%;
+	padding: 10px;
+	margin: 0;
+}
+.listaPeliculas {
+	width: 125px;
+	height: 150px;
+	display: inline-block;
+	position: relative;
+	left: 5%;
+}
+.comprar {
+	padding: 40px;
+}
+.textoComprarA {
+	color: lightgrey;
+	font-size: 14px;
+}
+.textoComprarB {
+	color: black;
+	font-size: 24px;
+}
+h4 {
+	margin: 10px;
+}
+.textoDesc {
+	color: #C08300;
+	font-size: 12px;
+	margin: 10px;
+}
+.botonTrailer {
+	background-color: #D6D145;
+	padding: 5px;
+	border-radius: 5%;
+	width: 150px;
+	border: 0;
+	text-align: center;
+	margin: 10px;
+}
+.watchTrailer {
+	color: white;
+	text-align: center;
+	margin: 0;
+	font-size: 12px;
+}
+.botonComprar {
+	background-color: #C08300;
+	padding: 5px;
+	border-radius: 5%;
+	width: 150px;
+	border: 0;
+	text-align: center;
+	margin: 10px;
+}
+.bookTcket {
+	color: white;
+	text-align: center;
+	margin: 0;
+	font-size: 12px;
+}
+.news {
+	color: lightgrey;
+	font-size: 20px;
+	margin: 10px;
+}
+h5 {
+	color: lightgrey;
+	font-size: 12px;
+}
+.tituloRandom {
+	color: black;
+	font-size: 12px;
+}
+.textoRandom {
+	color: lightgrey;
+	font-size: 10px;
+}
+.lineaGris {
+	width: 500px;
+	height: auto;
+	border: 1px solid lightgrey;
+}
+.textoMore {
+	color: #C08300;
+	font-size: 9px;
+}
+.lista2 {
+	width: 200px;
+	height: 200px;
+	display: inline-block;
+	margin: 10px;
+	align: center;
+}
+footer {
+	clear: both;
+	background-color: #E8E6EC;
+	color: grey;
+	font-size: 8px;
+	padding: 20px;
+}
